@@ -18,7 +18,7 @@ resume: true
 resume-external: true
 resume-url: https://github.com/Alex-Quinn/resume/blob/master/AlexQuinn_Resume.pdf
 
-contact: false
+contact: true
 
 url: http://alexqu.in
 
@@ -53,7 +53,7 @@ github: Alex-Quinn
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ajq5623@gmail.com
+email: alex@alexqu.in
 
 authors:
     # johndoe:
