@@ -1,6 +1,7 @@
 # main text of home
 name: Alex Quinn
-bio: Builder of software and climber of rocks
+bio-1: Builder of software, climber of rocks,
+bio-2: real-life human person
 
 # twitter summary info
 # description: A blog about technology and stuff related
