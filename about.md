@@ -11,7 +11,7 @@ I'm a software consultant focused on finding elegant solutions to complex proble
 </p>
 
 <p>
-I believe in using technology as a tool to provide humans with solutions to real problems. <b>I do not build applications solely for the sake of profit.</b> If you have a project that you think might fit that bill (even if it's outsite of my listed expertise), get in touch!
+I believe in using technology to provide humans with solutions to real problems. <b>I do not build applications solely for the sake of profit.</b> If you have a project that you think might fit that bill (even if it's outsite of my listed expertise), get in touch!
 </p>
 
 <p>
