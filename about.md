@@ -7,7 +7,7 @@ layout: page
 Hi!
 
 <p>
-I'm a software engineer focused on finding elegant solutions to complex problems. I work primarily as a backend web enginner with expertise in <b>highly available systems, application scaling, and data administration.</b>
+I'm a software engineer focused on finding elegant solutions to complex problems. I work primarily as a backend web engineer with expertise in <b>highly available systems, application scaling, and data administration.</b>
 </p>
 
 <p>
