@@ -28,3 +28,7 @@ Aside from building software, I am an avid rock climber and cyclist. I love bein
 	<li>API design</li>
 	<li>Project planning and estimation</li>
 </ul>
+
+<p align="right">
+<a style="font-size:80%;" class="link" target="_blank" href="https://secca.smugmug.com/Spotted-Horse-Gravel-Ultra/i-z2R2bPk">Photo Credit</a>
+</p>
