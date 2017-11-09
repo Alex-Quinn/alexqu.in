@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # main text of home
 name: Alex Quinn
 bio-1: Builder of software, climber of rocks,
