@@ -7,11 +7,11 @@ layout: page
 Hi!
 
 <p>
-I'm a software engineer focused on finding elegant solutions to complex problems. I work primarily as a backend web engineer with expertise in <b>highly available systems, application scaling, and data administration.</b>
+I'm a software engineer focused on finding elegant solutions to complex problems. I work primarily as a backend web engineer with expertise in <b>highly available systems, application scaling, and data management.</b>
 </p>
 
 <p>
-I believe in using technology to provide humans with solutions to real problems. <b>I do not build applications solely for the sake of profit.</b> If you have a project that you think might fit that bill (even if it's outsite of my listed expertise), <a class="link" href="{{ site.url }}/contact">get in touch!</a>
+I believe in using technology to provide humans with solutions to tangible problems. <b>I prefer to work on projects which are motivated by making a positive impact rather than profit.</b> If you have a project that fits that bill (even if it's outsite of my listed expertise), <a class="link" href="{{ site.url }}/contact">get in touch!</a>
 </p>
 
 <p>
