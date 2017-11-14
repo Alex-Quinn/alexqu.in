@@ -11,11 +11,11 @@ I'm a software engineer focused on finding elegant solutions to complex problems
 </p>
 
 <p>
-I believe in using technology to provide humans with solutions to tangible problems. <b>I prefer to work on projects which are motivated by making a positive impact rather than profit.</b> If you have a project that fits that bill (even if it's outsite of my listed expertise), <a class="link" href="{{ site.url }}/contact">get in touch!</a>
+I believe in using technology to provide humans with solutions to tangible problems. <b>I prefer to work on projects which are motivated by making a positive impact rather than profit.</b> If you have a project that fits that bill (even if it's outside of my listed expertise), <a class="link" href="{{ site.url }}/contact">get in touch!</a>
 </p>
 
 <p>
-Aside from building software, I am an avid rock climber and cyclist. I love being outside and travelling as much as possible. I work remotely from various places around the Unites States. Let me known where you are; I would love to meet in person.
+Aside from building software, I am an avid rock climber and cyclist. I love being outside and traveling as much as possible. I work remotely from various places around the Unites States. Let me known where you are; I would love to meet in person.
 </p>
 
 <h2>Skills</h2>
