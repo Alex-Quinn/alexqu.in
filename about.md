@@ -15,7 +15,7 @@ I believe in using technology to provide humans with solutions to tangible probl
 </p>
 
 <p>
-Aside from building software, I am an avid rock climber and cyclist. I love being outside and traveling as much as possible. I work remotely from various places around the Unites States. Let me known where you are; I would love to meet in person.
+Aside from building software, I am an avid rock climber and cyclist. I love being outside and traveling as much as possible. I work remotely from various places around the Unites States. Let me know where you are; I would love to meet in person.
 </p>
 
 <h2>Skills</h2>
