@@ -7,26 +7,25 @@ layout: page
 Hi!
 
 <p>
-I'm a software engineer focused on finding elegant solutions to complex problems. I work primarily as a backend web engineer with expertise in <b>highly available systems, application scaling, and data management.</b>
+I'm a software engineer focused on helping organizations find solutions to their unique and complex problems. I understand that every software system has its quirks and legacy code is not perfect. <b>I work with each client to understand their particular project and build custom software tailored to the problem at hand.</b>
 </p>
 
 <p>
-I believe in using technology to provide humans with solutions to tangible problems. <b>I prefer to work on projects which are motivated by making a positive impact rather than profit.</b> If you have a project that fits that bill (even if it's outside of my listed expertise), <a class="link" href="{{ site.url }}/contact">get in touch!</a>
+Most of my expertise is as a backend web engineer with a focus on <b>application scaling, highly available systems, and data management.</b>
 </p>
 
 <p>
-Aside from building software, I am an avid rock climber and cyclist. I love being outside and traveling as much as possible. I work remotely from various places around the Unites States. Let me know where you are; I would love to meet in person.
+I'm here when technical challenges begin to hinder your organization's ability to do what it's good at. If you'd like to chat, <a class="link" href="{{ site.url }}/contact">get in touch!</a>
 </p>
 
-<h2>Skills</h2>
+<h2>Areas of focus</h2>
 
 <ul class="skill-list">
 	<li>Ruby on Rails development</li>
-	<li>Database administration (primarily Postgres and MySQL)</li>
-	<li>Redis administration</li>
 	<li>Data management</li>
-	<li>API design</li>
+	<li>Database administration</li>
 	<li>Project planning and estimation</li>
+	<li>Service-oriented architectures</li>
 </ul>
 
 <p align="right">
