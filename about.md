@@ -7,7 +7,7 @@ layout: page
 Hi!
 
 <p>
-<b>I'm a software engineer focused on helping organizations find solutions to unique technical problems.</b> I understand that all software has quirks and legacy code is not perfect. I work with each client to understand their particular project and build custom software tailored to the problem at hand.
+<b>I'm a software engineer focused on helping organizations find solutions to complex technical problems.</b> I understand that all software has quirks and legacy code is not perfect. I work with each client to understand their particular project and build custom software tailored to the problem at hand.
 </p>
 
 <p>
