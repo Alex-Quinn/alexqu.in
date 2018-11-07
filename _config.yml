@@ -8,7 +8,7 @@ bio-1: Not a robot.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-avatar: assets/images/avatar.jpg
+avatar: assets/images/profile.jpg
 profile-picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
