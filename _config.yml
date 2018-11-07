@@ -1,7 +1,6 @@
 # main text of home
 name: Alex Quinn
-bio-1: Builder of software, climber of rocks,
-bio-2: real-life human person
+bio-1: Not a robot.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -14,11 +13,11 @@ profile-picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://github.com/Alex-Quinn/resume/blob/master/AlexQuinn_Resume.pdf
 
-contact: true
+contact: false
 
 url: http://alexqu.in
 
@@ -82,7 +81,7 @@ width: normal
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: false
 
 # do you want to show the "read time" of the posts?
