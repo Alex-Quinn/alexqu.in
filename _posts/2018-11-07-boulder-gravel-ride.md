@@ -9,7 +9,7 @@ tag:
 category: blog
 author: alexquinn
 image_sliders:
-  - slider1
+  - slider_20181107
 ---
 
 This past Saturday Sara and I spent a perfect fall day on our bikes exploring some mellow singletrack and gravel roads around Boulder.
@@ -20,7 +20,7 @@ Until Saturday, most of my bike riding around Boulder had consisted of riding st
 
 Nearly every time I go out on my bike I am amazed by the new terrain I find. This time was no exception and it was great to share the exploration with Sara.
 
-{% include slider.html selector="slider1" %}
+{% include slider.html selector="slider_20181107" %}
 
 <br>
 
