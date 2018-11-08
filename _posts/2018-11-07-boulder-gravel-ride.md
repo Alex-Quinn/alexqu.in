@@ -8,6 +8,8 @@ tag:
 - bikes
 category: blog
 author: alexquinn
+image_sliders:
+  - slider1
 ---
 
 This past Saturday Sara and I spent a perfect fall day on our bikes exploring some mellow singletrack and gravel roads around Boulder.
@@ -18,9 +20,10 @@ Until Saturday, most of my bike riding around Boulder had consisted of riding st
 
 Nearly every time I go out on my bike I am amazed by the new terrain I find. This time was no exception and it was great to share the exploration with Sara.
 
-<img class="image" src="{{ site.url }}/assets/images/2018-11-07/1.jpg">
-<img class="image" src="{{ site.url }}/assets/images/2018-11-07/2.jpg">
-<img class="image" src="{{ site.url }}/assets/images/2018-11-07/3.jpg">
-<img class="image" src="{{ site.url }}/assets/images/2018-11-07/4.jpg">
+{% include slider.html selector="slider1" %}
 
-<iframe src='https://www.gaiagps.com/datasummary/track/07f340e6-65a9-40e5-9163-f516c0a54abc/?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;' scrolling='no' seamless='seamless'></iframe>
+<br>
+
+<div align="middle">
+	<iframe src='https://www.gaiagps.com/datasummary/track/07f340e6-65a9-40e5-9163-f516c0a54abc/?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;' scrolling='no' seamless='seamless'></iframe>
+</div>

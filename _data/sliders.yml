@@ -1,0 +1,23 @@
+- selector: slider1
+  bullets: false
+  captions: false
+  images:
+    - src: assets/images/2018-11-07/1.jpg
+      alt: Minimum required attributes
+    - src: assets/images/2018-11-07/2.jpg
+      alt: Minimum required attributes
+    - src: assets/images/2018-11-07/3.jpg
+      alt: Minimum required attributes
+    - src: assets/images/2018-11-07/4.jpg
+      alt: Minimum required attributes
+  settings:
+    height: 700
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
