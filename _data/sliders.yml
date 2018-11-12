@@ -17,3 +17,27 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+- selector: slider_20181111
+  bullets: false
+  captions: false
+  images:
+    - src: assets/images/2018-11-11/open-road.jpg
+    - src: assets/images/2018-11-11/dan-at-gorge.jpg
+    - src: assets/images/2018-11-11/cinnamon-bun.jpg
+    - src: assets/images/2018-11-11/cow.jpg
+    - src: assets/images/2018-11-11/hike-a-bike.jpg
+    - src: assets/images/2018-11-11/camp-tent.jpg
+    - src: assets/images/2018-11-11/warming.jpg
+    - src: assets/images/2018-11-11/wild-horse-sign.jpg
+    - src: assets/images/2018-11-11/wild-horses.jpg
+  settings:
+    height:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

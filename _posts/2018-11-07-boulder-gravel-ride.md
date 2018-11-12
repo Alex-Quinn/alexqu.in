@@ -5,7 +5,7 @@ date: 2018-11-07
 image: /assets/images/2018-11-07/3.jpg
 headerImage: false
 tag:
-- bikes
+  - bikes
 category: blog
 author: alexquinn
 image_sliders:
