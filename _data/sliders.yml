@@ -41,3 +41,20 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+- selector: slider_20181126
+  bullets: false
+  captions: false
+  images:
+    - src: assets/images/2018-11-26/approach.jpg
+    - src: assets/images/2018-11-26/landscape.jpg
+  settings:
+    height:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
