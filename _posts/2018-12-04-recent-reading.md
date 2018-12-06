@@ -1,7 +1,7 @@
 ---
 title: "Recent Reading"
 layout: post
-date: 2018-11-26
+date: 2018-12-04
 image: /assets/images/2018-12-04/to-shake-the-sleeping-self.jpg
 headerImage: false
 tag:
