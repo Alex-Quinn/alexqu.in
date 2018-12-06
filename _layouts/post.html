@@ -44,6 +44,12 @@ layout: page
     {% include author.html %}
 {% endif %}
 
+{% if site.subscribe %}
+    <center>
+      <a class="link" href="{{ site.subscribe-url }}">Subscribe!</a>
+    </center>
+{% endif %}
+
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
