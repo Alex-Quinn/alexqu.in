@@ -2,8 +2,6 @@
 name: Alex Quinn
 bio-1: Not a robot.
 
-# twitter summary info
-# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,8 +16,6 @@ resume-external: true
 resume-url: https://github.com/Alex-Quinn/resume/blob/master/AlexQuinn_Resume.pdf
 
 contact: false
-
-url: http://alexqu.in
 
 permalink: /:title/
 
@@ -110,3 +106,8 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+# Atom feed data
+title: Alex Quinn
+author: Alex Quinn
+url: http://alexqu.in/blog
