@@ -8,6 +8,7 @@ tag:
   - reading
 category: blog
 author: alexquinn
+excerpt: "As he turned 30, Jedidiah Jenkins set out on a bike touring trip from Oregon to Patagonia. Jedidiah, being a devote Christian and having never really ridden a bike before, is a bit of a divergence from the typical “adventurer” that I find myself reading about."
 ---
 
 <img class="image" src="{{ site.url }}/assets/images/2018-12-04/to-shake-the-sleeping-self.jpg">

@@ -8,6 +8,7 @@ tag:
   - climbing
 category: blog
 author: alexquinn
+excerpt: "After celebrating Thanksgiving early this year, Sara and I found ourselves with a free four-day weekend. The original plan was to trek out to the desert to meet Dan for another bikepacking trip. But, as the weekend got closer, the weather and the logistics were not cooperating. We bailed."
 ---
 
 <img class="image" src="{{ site.url }}/assets/images/2018-11-26/landscape.jpg">
