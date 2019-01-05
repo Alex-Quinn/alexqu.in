@@ -41,3 +41,22 @@
     keyboardNav:
     previousNavSelector:
     nextNavSelector:
+- selector: slider_20190105
+  bullets: false
+  captions: false
+  images:
+    - src: assets/images/2019-1-5/1.jpg
+    - src: assets/images/2019-1-5/2.jpg
+    - src: assets/images/2019-1-5/3.jpg
+    - src: assets/images/2019-1-5/4.jpg
+  settings:
+    height:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
