@@ -19,7 +19,11 @@ I'm planning on refocusing on sport climbing as soon as <a class="inline-link" h
 <h4>Other Stuff</h4>
 
 <p>
-Sara and I are moving to Fayetteville, WV (home of the <a class="inline-link" href="https://www.mountainproject.com/area/105855991/the-new-river-gorge" target="_blank">New River Gorge</a>) at the end of July! We're really stoked but the next two months are going to be a bit hectic.
+I'm still happily building the engineering team at <a class="inline-link" href="https://www.wundercapital.com/" target="_blank">Wunder</a>. At a small company, things are constantly changing and there is always something exciting around the corner. Right now is no exception.
 </p>
 
-<a class="inline-link" href="https://sive.rs/nowff" target="_blank">What is now?</a>
+<p>
+Finally, Sara and I are moving to Fayetteville, WV (home of the <a class="inline-link" href="https://www.mountainproject.com/area/105855991/the-new-river-gorge" target="_blank">New River Gorge</a>) at the end of July! We're really stoked but the next two months are going to be a bit hectic.
+</p>
+
+<a class="inline-link" href="https://nownownow.com/about" target="_blank">What is now?</a>
