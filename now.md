@@ -9,7 +9,7 @@ layout: page
 <h4>Outside</h4>
 
 <p>
-The spring climbing season for me has been dominated by bouldering. Mostly at <a class="inline-link" href="https://www.mountainproject.com/area/106122647/alderferthree-sisters-park" target="_blank">Three Sisters</a> due to its proximity to Golden. I'm <em>really</em> bad at bouldering so it has been a fun and frustrating learning experience. Working on the weaknesses!
+The spring climbing season for me has been dominated by bouldering—mostly at <a class="inline-link" href="https://www.mountainproject.com/area/106122647/alderferthree-sisters-park" target="_blank">Three Sisters</a> due to its proximity to Golden. I'm <em>really</em> bad at bouldering so it has been a fun and frustrating learning experience. Working on the weaknesses!
 </p>
 
 <p>
