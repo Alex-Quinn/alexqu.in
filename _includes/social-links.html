@@ -106,4 +106,10 @@
             <svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.now %}
+      <a class="link" data-title="Now" href="{{ site.url }}/now" target="_blank">
+          <svg class="icon icon-rss"><use xlink:href="#icon-now"></use></svg>
+      </a>
+    {% endif %}
 </div>
