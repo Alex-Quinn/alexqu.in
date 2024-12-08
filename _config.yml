@@ -8,8 +8,6 @@ bio-1: Not a robot.
 external-image: false
 avatar: assets/images/profile.jpg
 profile-picture: assets/images/profile.jpg
-now-picture-1: assets/images/now1.jpg
-now-picture-2: assets/images/now2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -50,7 +48,7 @@ github: Alex-Quinn
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: alex@alexqu.in
+email: alexjq@protonmail.com
 
 authors:
     alexquinn:
@@ -69,8 +67,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 projects: false
-blog: true
-now: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: false
